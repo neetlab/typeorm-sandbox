@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/node": "^14.0.1",
+    "typeorm": "^0.2.24"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^8.2.1"
+  }
+}
